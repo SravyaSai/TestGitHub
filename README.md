@@ -1,2 +1,2 @@
 # TestGitHub
-A simple github test
+A simple github test for beginners
